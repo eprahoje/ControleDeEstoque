@@ -26,3 +26,4 @@ F:\Senac\Materia - Algoritmos e Programacao II\PTI\ControleDeEstoque\obj\Debug\n
 F:\Senac\Materia - Algoritmos e Programacao II\PTI\ControleDeEstoque\obj\Debug\net8.0\ControleDeEstoque.pdb
 F:\Senac\Materia - Algoritmos e Programacao II\PTI\ControleDeEstoque\obj\Debug\net8.0\ControleDeEstoque.genruntimeconfig.cache
 F:\Senac\Materia - Algoritmos e Programacao II\PTI\ControleDeEstoque\obj\Debug\net8.0\ref\ControleDeEstoque.dll
+F:\Senac\Materia - Algoritmos e Programacao II\PTI\ControleDeEstoque\obj\Debug\net8.0\ControleDeEstoque.sourcelink.json
